@@ -19,7 +19,7 @@ open-architecture technology transfer (AEGIS-GLOBAL, $46.30/unit, manufacture-lo
 | aegis-global | Technology transfer + manufacturing spec | AGPL-3.0 |
 | savant-docs | Documentation archive | — |
 | savant-demo | Zero-dependency falsifiability interface | — |
-| savant-media | Public media engine: daily content, brand, schedule | AGPL-3.0 |
+| savant-media | Private media engine (planning surface; platforms carry public outputs) | Private |
 | grants | Capital engine (24-target portfolio) | Private |
 
 ## Doctrine
