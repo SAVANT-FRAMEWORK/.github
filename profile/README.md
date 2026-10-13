@@ -22,6 +22,40 @@ open-architecture technology transfer (AEGIS-GLOBAL, published-cost, manufacture
 | savant-media | Private media engine (planning surface; platforms carry public outputs) | Private |
 | grants | Grant governance specifications (24-target grant portfolio) | Private |
 
+## Publications — The SAVANT Zenodo Corpus
+
+Sixteen works, open access (CC-BY-4.0), each DOI-citable. Full catalog with
+abstracts, merits, and PDFs: [savant-framework.github.io/savant-docs/publications](https://savant-framework.github.io/savant-docs/publications/)
+
+**Constitutional Intelligence Series (Papers 1–12)**
+
+| # | Title | DOI |
+|---|---|---|
+| 1 | The Authority Transition Algebra | [10.5281/zenodo.23301024](https://doi.org/10.5281/zenodo.23301024) |
+| 2 | The Composition of Constitutions | [10.5281/zenodo.23301042](https://doi.org/10.5281/zenodo.23301042) |
+| 3 | Negative-Space Intelligence | [10.5281/zenodo.23301055](https://doi.org/10.5281/zenodo.23301055) |
+| 4 | Bounded Metacognition | [10.5281/zenodo.23301095](https://doi.org/10.5281/zenodo.23301095) |
+| 5 | Epistemic Governance | [10.5281/zenodo.23301115](https://doi.org/10.5281/zenodo.23301115) |
+| 6 | Objective Transition | [10.5281/zenodo.23301124](https://doi.org/10.5281/zenodo.23301124) |
+| 7 | Survivability | [10.5281/zenodo.23301144](https://doi.org/10.5281/zenodo.23301144) |
+| 8 | Resource-Constrained Intelligence | [10.5281/zenodo.23301154](https://doi.org/10.5281/zenodo.23301154) |
+| 9 | Constitutional Generative Architecture | [10.5281/zenodo.23301183](https://doi.org/10.5281/zenodo.23301183) |
+| 10 | The Domain Modules | [10.5281/zenodo.23301193](https://doi.org/10.5281/zenodo.23301193) |
+| 11 | The Adversarial Instrument | [10.5281/zenodo.23301212](https://doi.org/10.5281/zenodo.23301212) |
+| 12 | The Executable Constitution | [10.5281/zenodo.23301221](https://doi.org/10.5281/zenodo.23301221) |
+
+**Research Blueprint Series** — pre-registered empirical programmes with explicit kill criteria
+
+| # | Title | DOI |
+|---|---|---|
+| Nº 1 | The Legitimacy Ledger | [10.5281/zenodo.23301234](https://doi.org/10.5281/zenodo.23301234) |
+| Nº 2 | The Falsifiable Clinic | [10.5281/zenodo.23301283](https://doi.org/10.5281/zenodo.23301283) |
+| Nº 3 | The Registered Frontier | [10.5281/zenodo.23301332](https://doi.org/10.5281/zenodo.23301332) |
+
+**Evidence Annex I — First Executed Results:** [10.5281/zenodo.23305008](https://doi.org/10.5281/zenodo.23305008) — the model check, the executed benchmark, and the real-data pre-registered test, with refutations published alongside verifications.
+
+Paper 0 (Safety Kernel) and Paper 13 (Claim Architecture) are reserved pending IP review — disclosed absences, per the corpus's honest-absence doctrine.
+
 ## Doctrine
 
 Every claim carries a test, a metric, or a signature. The prompt catalog discloses
