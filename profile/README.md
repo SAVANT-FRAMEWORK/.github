@@ -13,10 +13,10 @@ open-architecture technology transfer (AEGIS-GLOBAL, published-cost, manufacture
 
 | Repo | Domain | License |
 |---|---|---|
-| savant-core | Governance engine + prompt corpus (75 prompts / 15 tiers, SHA-256 genealogy ledger) | AGPL-3.0 (KEY-001–015) / Commercial (KEY-016+) |
+| savant-core | Governance engine + prompt corpus (75 prompts / 15 tiers, SHA-256 genealogy ledger) | AGPL-3.0 (KEY-001–020) / Savant-Commercial-1.0 (KEY-021+) |
 | clai-os | Clinical AI operating system, P51–P70, deterministic safety | AGPL-3.0 |
-| aegis-ng | Safety mesh: 14 node types, edge AI, CRDT sync | AGPL-3.0 |
-| aegis-global | Technology transfer + manufacturing spec | AGPL-3.0 |
+| aegis-ng | Safety mesh: 24 universal node types + 8 regional deltas (7 layers), edge AI, CRDT sync | AGPL-3.0 |
+| aegis-global | Sovereignty transfer: 24 universal node types + 8 regional deltas (7 layers), manufacturing blueprint + sourcing spec + certification curriculum | CC BY-SA 4.0 (docs/specs); AGPL-3.0 (code) |
 | savant-docs | Documentation archive | — |
 | savant-demo | Zero-dependency falsifiability interface | — |
 | savant-media | Private media engine (planning surface; platforms carry public outputs) | Private |
@@ -24,7 +24,7 @@ open-architecture technology transfer (AEGIS-GLOBAL, published-cost, manufacture
 
 ## Publications — The SAVANT Zenodo Corpus
 
-Sixteen works, open access (CC-BY-4.0), each DOI-citable. Full catalog with
+Twenty-two works, open access (CC-BY-4.0), each DOI-citable. Full catalog with
 abstracts, merits, and PDFs: [savant-framework.github.io/savant-docs/publications](https://savant-framework.github.io/savant-docs/publications/)
 
 **Constitutional Intelligence Series (Papers 1–12)**
@@ -53,6 +53,17 @@ abstracts, merits, and PDFs: [savant-framework.github.io/savant-docs/publication
 | Nº 3 | The Registered Frontier | [10.5281/zenodo.23301332](https://doi.org/10.5281/zenodo.23301332) |
 
 **Evidence Annex I — First Executed Results:** [10.5281/zenodo.23305008](https://doi.org/10.5281/zenodo.23305008) — the model check, the executed benchmark, and the real-data pre-registered test, with refutations published alongside verifications.
+
+**AEGIS Series — sovereign civilian-protection architecture (deposited 2026-10-16)**
+
+| # | Title | DOI |
+|---|---|---|
+| 1 | SAVANT FRAMEWORK: Defensive Publication v5.0 — Prior Art for 14 Patent Families | [10.5281/zenodo.23407033](https://doi.org/10.5281/zenodo.23407033) |
+| 2 | AEGIS-NG v2.0 INFINITE — Master System Document | [10.5281/zenodo.23407093](https://doi.org/10.5281/zenodo.23407093) |
+| 3 | AEGIS-GLOBAL v1.0 UNIVERSAL — Master System Document | [10.5281/zenodo.23407101](https://doi.org/10.5281/zenodo.23407101) |
+| 4 | AEGIS-NG Hardware Specification Bundle v1.0 (five node specifications) | [10.5281/zenodo.23407105](https://doi.org/10.5281/zenodo.23407105) |
+| 5 | AEGIS-GLOBAL Manufacturing & China Sourcing Specification v1.0 | [10.5281/zenodo.23407112](https://doi.org/10.5281/zenodo.23407112) |
+| 6 | AEGIS-GLOBAL Local Engineer Certification Curriculum v1.0 | [10.5281/zenodo.23407116](https://doi.org/10.5281/zenodo.23407116) |
 
 Paper 0 (Safety Kernel) and Paper 13 (Claim Architecture) are reserved pending IP review — disclosed absences, per the corpus's honest-absence doctrine.
 
